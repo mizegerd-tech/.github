@@ -13,8 +13,8 @@ We are gathered from the 💗 heart of Social Media`s to Develop businesses to b
 - [Mizegerd Website(icon.png)](https://mizegerd.tech) 
 - [instagram(icon)](https://t.me/theroundtable)
 - [twitter(icon)](https://t.me/theroundtable)
-- [linkedin(https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/company/mizegerd)
-- [gmail(https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:info@mizegerd.tech)
+- [![linkedin](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/company/mizegerd)
+- [![gmail](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:info@mizegerd.tech)
 
 ### 👓 Appendix
 
