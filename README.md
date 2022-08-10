@@ -25,7 +25,7 @@ See what's next on our [Website](https://mizegerd.tech) ✨ and [let us know](ma
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
 	<ul>
-	<li>Checkout our Q&A PAge in our </a>, <a href="https://mizegerd.tech/qa">Q&A Website Page</a> .</li>
+	<li>Checkout our Q&A Page in our </a>, <a href="https://mizegerd.tech/qa">Q&A Website Page</a> .</li>
 </details>
 
 ---
