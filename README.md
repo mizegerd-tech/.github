@@ -10,12 +10,12 @@ We are The RoundTable aka Mizegerd. In fact, we’ve been doing this since **Sep
 
 We are gathered from the 💗 heart of Social Media`s to Develop businesses to be Star⭐. See our Socials:
 
-- [![Mizegerd Website](https://github.com/mizegerd-tech/.github/blob/main/icon-website.png)](https://mizegerd.tech) 
-- [![Instagram](https://github.com/mizegerd-tech/.github/blob/main/icon-telegram.png)](https://t.me/theroundtable)
-- [![Telegram](https://github.com/mizegerd-tech/.github/blob/main/icon-telegram.png)](https://t.me/theroundtable)
-- [![twitter](https://user-images.githubusercontent.com/74541595/179396963-19c09b21-ac62-4a83-b7ec-f7dc202f6430.png)](https://t.me/theroundtable)
-- [![linkedin](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/company/mizegerd)
-- [![gmail](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:info@mizegerd.tech)
+[![Mizegerd Website](https://github.com/mizegerd-tech/.github/blob/main/icon-website.png)](https://mizegerd.tech) 
+[![Instagram](https://github.com/mizegerd-tech/.github/blob/main/icon-telegram.png)](https://t.me/theroundtable)
+[![Telegram](https://github.com/mizegerd-tech/.github/blob/main/icon-instagram.png)](https://t.me/theroundtable)
+[![twitter](https://user-images.githubusercontent.com/74541595/179396963-19c09b21-ac62-4a83-b7ec-f7dc202f6430.png)](https://t.me/theroundtable)
+[![linkedin](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/company/mizegerd)
+[![gmail](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:info@mizegerd.tech)
 
 ### 👓 Appendix
 
