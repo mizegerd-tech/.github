@@ -1,25 +1,26 @@
-
-
-## Hey, this is us 👋
+## Hey, Welcome to Mizegerd 👋
 
 ![OUR WALLPAPER](https://github.com/mizegerd-tech/.github/blob/main/Mizegerd.tech%20Desktop%20Wallpaper%20-%20Light.png)
 
-We are The RoundTable aka Mizegerd. In fact, we’ve been doing this since **September 19th, 2018**. We are a Digital Agency doing **Digital Marketing**, **Web Design**, **Cyber Security** & Expert in **Social Media Marketing** & **Web Security** 🤯. But that's just us. We are proud to be part of the work of hundreds of digital companies and agencies across the solar system 🪐.
+We are Mizegerd, also known as The RoundTable. Since **September 19th, 2018**, we've been a leading Digital Agency specializing in **Digital Marketing**, **Web Design**, **Cyber Security**, **Social Media Marketing**, and **Web Security**. Our expertise also extends to **App Development**, and **Business Automation**. We take pride in being a part of the digital transformation of numerous companies and agencies across the globe 🪐.
 
-### 🍿 An interesting Story From Where We Came From
+### 🍿 Our Journey to Stardom
 
-We are gathered from the 💗 heart of Social Media`s to Develop businesses to be Star⭐. See our Socials:
+Born from the 💗 heart of Social Media, our mission is to elevate businesses to stardom⭐. Connect with us on our social platforms:
 
-[![Mizegerd Website](https://github.com/mizegerd-tech/.github/blob/main/icon-website.png)](https://mizegerd.tech) 
-[![Instagram](https://github.com/mizegerd-tech/.github/blob/main/icon-telegram.png)](https://t.me/theroundtable)
-[![Telegram](https://github.com/mizegerd-tech/.github/blob/main/icon-instagram.png)](https://t.me/theroundtable)
-[![twitter](https://user-images.githubusercontent.com/74541595/179396963-19c09b21-ac62-4a83-b7ec-f7dc202f6430.png)](https://t.me/theroundtable)
-[![linkedin](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/company/mizegerd)
-[![gmail](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:info@mizegerd.tech)
+[![Mizegerd Website](https://img.icons8.com/fluency/48/domain.png)](https://mizegerd.tech) 
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://t.me/The_RoundTable)
+[![Telegram](https://img.icons8.com/color/48/telegram-app--v5.png)](https://instagram.com/mizegerd_tech)
+[![Medium](https://img.icons8.com/ios-filled/50/medium-logo.png)](https://mizegerd-tech.medium.com/)
+[![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/company/mizegerd)
+[![gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:info@mizegerd.tech)
 
-### 👓 Appendix
 
-See what's next on our [Website](https://mizegerd.tech) ✨ and [let us know](mailto:support@mizegerd.tech) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](mailto:hire@mizegerd.tech) 🙌.
+### 👓 What's Next?
+
+
+Discover our upcoming projects on our [Website](https://mizegerd.tech) ✨. We welcome your suggestions and feedback, so [let us know](mailto:support@mizegerd.tech) if you have any 🙇‍♂️. We're always on the lookout for talented and passionate individuals to [join our team](mailto:hire@mizegerd.tech) 🙌.
+
 
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
@@ -33,5 +34,36 @@ See what's next on our [Website](https://mizegerd.tech) ✨ and [let us know](ma
 <sub>🤫 Psst! Dont Forget to Star our repositories.</sub>
 
 <!--
-Made with ❤ at Mizegerd.tech
+Crafted with ❤ at Mizegerd.tech
 -->
+
+
+## به میزگرد خوش آمدید👋
+
+ما میزگرد هستیم، همچنین به عنوان The RoundTable شناخته می شویم. از 19 سپتامبر 2018، ما یک آژانس دیجیتال برتر در زمینه **بازاریابی دیجیتال**، **طراحی وب**، **امنیت سایبری**، **بازاریابی در شبکه های اجتماعی**، و **امنیت وب** بوده ایم. تخصص ما همچنین به **توسعه اپلیکیشن** و **اتوماسیون کسب و کار** می امتد. ما افتخار می کنیم که بخشی از تحول دیجیتال شرکت ها و آژانس های متعدد در سراسر جهان باشیم 🪐.
+
+### 🍿 سفر ما به جمع ستاره ها
+ما از 💗 قلب شبکه های اجتماعی متولد شدیم، ماموریت ما ارتقا کسب و کارها به ستاره ها⭐ است. ما این کار را با ایجاد اپلیکیشن ها و ربات های نوآورانه که فرآیندهای کسب و کار را اتوماتیک و ساده می کنند، انجام می دهیم. با ما در پلتفرم های اجتماعی ما ارتباط برقرار کنید:
+
+[![Mizegerd Website](https://img.icons8.com/fluency/48/domain.png)](https://mizegerd.tech) 
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://t.me/The_RoundTable)
+[![Telegram](https://img.icons8.com/color/48/telegram-app--v5.png)](https://instagram.com/mizegerd_tech)
+[![Medium](https://img.icons8.com/ios-filled/50/medium-logo.png)](https://mizegerd-tech.medium.com/)
+[![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/company/mizegerd)
+[![gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:info@mizegerd.tech)
+
+### 👓 چه چیزی در انتظار است؟
+پروژه های آینده ما را در [وبسایت ما](https://mizegerd.tech) کشف کنید ✨. ما پیشنهادات و بازخورد شما را استقبال می کنیم، پس اگر هر گونه پیشنهادی دارید [به ما بگویید](mailto:support@mizegerd.tech) 🙇‍♂️. ما همیشه در جستجوی افراد با استعداد و پرشور برای پیوستن به [تیم ما](mailto:hire@mizegerd.tech) هستیم 🙌.
+<details> 
+	<summary>"من می خواهم بیشتر بدانم!"</summary>
+	<br>
+	<ul>
+	<li>برای دریافت اطلاعات بیشتر، صفحه پرسش و پاسخ ما در [وبسایت](https://mizegerd.tech/qa) ما را مشاهده کنید.</li>
+</details>
+<sub>🤫 ببین! فراموش نکنید که پروژه های ما را ستاره دهید.</sub>
+
+<!--
+با ❤ در Mizegerd.tech ساخته شده است
+-->
+
+
