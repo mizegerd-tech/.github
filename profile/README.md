@@ -1,5 +1,6 @@
 ## Hey, Welcome to Mizegerd 👋
 
+
 ![OUR WALLPAPER](https://github.com/mizegerd-tech/.github/blob/main/Mizegerd.tech%20Desktop%20Wallpaper%20-%20Light.png)
 
 We are Mizegerd, also known as The RoundTable. Since **September 19th, 2018**, we've been a leading Digital Agency specializing in **Digital Marketing**, **Web Design**, **Cyber Security**, **Social Media Marketing**, and **Web Security**. Our expertise also extends to **App Development**, and **Business Automation**. We take pride in being a part of the digital transformation of numerous companies and agencies across the globe 🪐.
@@ -37,6 +38,7 @@ Discover our upcoming projects on our [Website](https://mizegerd.tech) ✨. We w
 Crafted with ❤ at Mizegerd.tech
 -->
 
+<img src="https://i.giphy.com/media/Q34Q46x7bUUKJfbn0s/giphy.webp" width="1400" height="20">
 
 ## به میزگرد خوش آمدید👋
 
